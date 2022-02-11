@@ -1,0 +1,48 @@
+task 1
+
+/*Console.Write("Write your name: ");
+string? name = Console.ReadLine();
+Console.WriteLine($"Hello, {name}");*/
+
+
+task 2
+
+/*Console.Write("Write first number: ");
+int first = Convert.ToInt32(Console.ReadLine());
+Console.Write("Write second number: ");
+int second = Convert.ToInt32(Console.ReadLine());
+
+if (first > second)
+{
+    Console.WriteLine($"{first} bigger than {second}");
+}
+else if (second > first)
+{
+    Console.WriteLine($"{second} bigger than {first}");
+}
+else 
+{
+    Console.WriteLine($"{first} equals {second}");
+}*/
+
+task 3
+
+/*
+Console.Write("Введiть двозначне число: "); 
+string number = Console.ReadLine();
+char first = number[0];
+char second = number[1];
+
+    if (first > second)
+    {
+        Console.WriteLine($"{first} bigger than {second}");
+    }
+    else if (second > first)
+    {
+        Console.WriteLine($"{second} bigger than {first}");
+    }
+    else
+    {
+        Console.WriteLine($"{first} equals {second}");
+    }
+    */
